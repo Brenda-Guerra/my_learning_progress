@@ -1,0 +1,33 @@
+bits = binary digits
+
+store electricity or dont store it = save bits 1 or 0
+
+The computer differentiates the letter A from the number 65 by the
+    context of it's use, the type of file that is being used, or more 
+    specifically the type of program. For example: for a document .docx,
+    or a program like microsoft word it'll recognise it as a letter, 
+    for a document like a table, for a program like excel, it will be 
+    recognised as a number, and so on. (by the use of ASCII)
+
+Unicode = the mapping of multiple letters, alphabets, characters, symbols 
+    and etc. Noting that ASCII uses 8 bits (256 variations) and by using 
+    16 bits to represent each character, generates like 65K possibilities.  
+    With 32 bits, tho, it creates 4 billion different characters
+
+verbo/actions, making the computer do something = function 
+
+ifs and elses, divisions and  = conditionals, forks in your path
+
+sentences that work together with conditionals and that theirs answers
+must be true or false, yes or no, 1 or 0 if you might = booleans 
+
+cicle, loop = do something over and over again
+
+problem solving, or computer science is just a matter of inputs (aka argument) 
+    generating outputs, and somewhere in between there is some algorithm (FUNCTION -  
+    implementation of an algorithm)
+
+clicking the start triggered a EVENT = graphical or interactive occurence
+
+
+
